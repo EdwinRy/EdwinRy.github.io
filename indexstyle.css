@@ -1,7 +1,8 @@
 #MainDiv {
-    background-color: #111111
+    background-color: #111111;
+    height: 100vh;
 }
 
 #ProjectDiv {
-    background-color: #aaaaaa
+    background-color: #aaaaaa;
 }
